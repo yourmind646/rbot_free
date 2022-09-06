@@ -2,4 +2,3 @@ asyncio
 pyrogram
 tgcrypto
 simplejson
-pyarmor
